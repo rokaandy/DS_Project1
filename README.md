@@ -3,7 +3,7 @@ Created by: Andy Luc and Connor Anderson
 Student Pace: Full-Time Data Science  
 Scheduled project review date/time: 04/19/2019  
 Instructors: Miles Erickson & Greg Damico  
-Blog Post URL: https://dev.to/rokaandy/logarithmic-transformation-in-linear-regression-models-why-when-3a7c¶  
+Blog Post URL: https://dev.to/rokaandy/logarithmic-transformation-in-linear-regression-models-why-when-3a7c  
 Slide Deck Presentation Link: 
 
 ## Business Case:
