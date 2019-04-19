@@ -1,4 +1,4 @@
-## Module One Partner Project
+## Data Science Project 1 - King County House Pricing Analysis
 Created by: Andy Luc and Connor Anderson  
 Student Pace: Full-Time Data Science  
 Scheduled project review date/time: 04/19/2019  
